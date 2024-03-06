@@ -1,4 +1,3 @@
-readme:
 This Java program is designed to calculate the area and volume of different shapes. It includes classes for Circle, Rectangle, Square, Sphere, Cylinder, and Pyramid. The program follows an object-oriented design, with an abstract class Shape and an interface Volume to handle the common functionalities and specific calculations for each shape.
 
 ## File Structure
